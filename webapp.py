@@ -35,10 +35,10 @@ elif selected == "Disease Predictor":
 
     st.title("🧪 Disease Predictor")
 
-    Diabetes_model = pickle.load(open('D:/Disease prediction/Saved Models/Diabetes_model.sav', 'rb'))
-    Heart_model = pickle.load(open('D:/Disease prediction/Saved Models/Heart_model.sav', 'rb'))
-    Ckd_model = pickle.load(open('D:/Disease prediction/Saved Models/CKD_model.sav', 'rb'))
-    scalar = pickle.load(open('D:/Disease prediction/Saved Models/Ckd_scalar.sav', 'rb'))
+    Diabetes_model = pickle.load(open('Saved Models/Diabetes_model.sav', 'rb'))
+    Heart_model = pickle.load(open('Saved Models/Heart_model.sav', 'rb'))
+    Ckd_model = pickle.load(open('Saved Models/CKD_model.sav', 'rb'))
+    scalar = pickle.load(open('Saved Models/Ckd_scalar.sav', 'rb'))
     
     disease = st.selectbox("Select Disease to Predict", ["Diabetes", "Heart Disease", "Kidney Disease"])
     
