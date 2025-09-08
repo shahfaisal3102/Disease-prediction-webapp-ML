@@ -106,6 +106,6 @@ Screenshot of the web app
 
 **Shah Faisal Khan**
 
-📧 Email: shahfaisal3102@gmail.com 
-🔗 [LinkedIn](www.linkedin.com/in/shah-faisal-khan-882965235)
+- 📧 Email: shahfaisal3102@gmail.com 
+- 🔗 [LinkedIn](www.linkedin.com/in/shah-faisal-khan-882965235)
 
