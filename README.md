@@ -10,7 +10,7 @@ A Machine Learning-powered web application that predicts the likelihood of Diabe
 - Aimed at helping users and medical practitioners with preliminary analysis.
 
 ## 📂 Project Structure
-... 
+```
 disease-prediction-app/
 │-- Dataset/                # CSV datasets for Diabetes, Heart Disease, CKD
       |-- Chronic Kidney.csv
@@ -34,31 +34,31 @@ disease-prediction-app/
 │-- webapp.py               # Streamlit app script
 │-- requirements.txt        # Dependencies
 │-- README.md               # Documentation
-...
+```
 
 ## ⚙️ Installation
 
 Clone the repository and install dependencies:
 
 **Clone repo**
-...
+```
 git clone https://github.com/username/disease-prediction-app.git  
-...
+```
 
 **Navigate**
-...
+```
 cd disease-prediction-app  
-...
+```
 
 **Install dependencies**
-...
+```
 pip install -r requirements.txt  
-...
+```
 
 **Run app**
-...
+```
 streamlit run app.py
-...
+```
 
 ## 🖥️ Usage
 
@@ -67,9 +67,9 @@ streamlit run app.py
 - Click Predict to view the disease prediction result.
 
 **Example command:**
-...
+```
 streamlit run app.py
-...
+```
 
 Then open http://localhost:8501
  in your browser.
