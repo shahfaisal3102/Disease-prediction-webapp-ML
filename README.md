@@ -71,8 +71,8 @@ streamlit run app.py
 streamlit run app.py
 ```
 
-Then open http://localhost:8501
- in your browser.
+ [Click here to run it live server](https://disease-prediction-webapp-ml-mrrvskgvwisilmzjtflpmz.streamlit.app/)
+ 
 
 ## 📊 Features
 
