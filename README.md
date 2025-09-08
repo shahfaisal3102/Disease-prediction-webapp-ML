@@ -86,8 +86,8 @@ Then open http://localhost:8501
 
 Screenshot of the web app
 
-- (D:\Disease prediction\Images\pic.png)
-- (D:\Disease prediction\Images\pic2.png)
+![Homepage page](Images/pic.png) 
+![Prediction page](Images/pic2.png)
 
 
 ## 🛠️ Tech Stack
